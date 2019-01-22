@@ -1,0 +1,14 @@
+{
+  "name": "ldcc.87.messaging.training",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "axios": "^0.18.0",
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "http": "0.0.0",
+    "nodemon": "^1.17.3"
+  }
+}
